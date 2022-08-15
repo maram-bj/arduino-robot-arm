@@ -39,14 +39,12 @@ circuit
 Robot initial positions
 positions
 
+![positions](https://user-images.githubusercontent.com/109854177/184724046-4c383742-1f52-4349-bc20-bf6643993af6.png)
 
 
 Configuring Arduino with ROS
 Install Arduino IDE in Ubuntu https://www.arduino.cc/en/software to install run $ sudo ./install.sh after unzipping the folder
 
-
-
-![positions](https://user-images.githubusercontent.com/109854177/184724046-4c383742-1f52-4349-bc20-bf6643993af6.png)
 
 
 Launch the Arduino IDE
